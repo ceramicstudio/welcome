@@ -1,3 +1,5 @@
+![](https://uploads-ssl.webflow.com/5ebcbef3ac4954196dcdc7b5/5f24ac6d5e5f026cbb7e0373_ceramic%20studio.png)
+
 # Ceramic Studio
 Ceramic Studio is a home for open source projects incubated by the Ceramic community. Inside you'll find things like DID providers (wallets), identity libraries, applications, and more.
 
